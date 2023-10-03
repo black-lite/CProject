@@ -87,7 +87,7 @@ void autoMoveBall()
 
 		ball = bl;
 		autoMoveBall();
-	};
+	}
 }
 
 void initField()
